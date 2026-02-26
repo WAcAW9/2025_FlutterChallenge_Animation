@@ -71,5 +71,5 @@ Flutter 10주 스터디 졸업 과제
 | 졸업 과제 | 설명 | 링크 |
 |---|---|:---:|
 | **Interactive Movie** | 애니메이션 기반 인터랙티브 UI (현재) | - |
-| **Any Movie** | 외부 API 연동 영화 앱 | [Repo](레포링크) |
-| **MoodTracker** | Firebase 인증 + DB 감정 기록 앱 | [Repo](레포링크) |
+| **Any Movie** | 외부 API 연동 영화 앱 | [Repo](https://github.com/WAcAW9/2025_FlutterChallenge_MovieApp) |
+| **MoodTracker** | Firebase 인증 + DB 감정 기록 앱 | [Repo](https://github.com/WAcAW9/2025_FlutterChallenge_MoodTracker) |
